@@ -49,6 +49,14 @@ Easily convert the daily playlist from Philadelphia’s 95.7 BenFM to your Amazo
 4. Uses TuneMyMusic’s website to transfer the list to your Amazon Music Playlist
 5. Console logs all songs that were added (Essentially any songs added to SongList.txt because they were not duplicates)
 
+## 🏃‍♂️ Run the program
+
+- To run the program, use the following command:
+
+    ```bash
+    python3 main.py
+    ```
+
 ## 🛠 Tech Stack
 
 To run the script, you'll need the following Python libraries:
