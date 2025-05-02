@@ -2,6 +2,15 @@
 
 Easily convert the daily playlist from Philadelphia’s 95.7 BenFM to your Amazon Music account — automatically.
 
+## 📚 Table of Contents
+
+- [🚀 Features](#-features)
+- [📦 Requirements](#-requirements)
+- [🔧 Setup Instructions](#-setup-instructions)
+- [💡 How It Works](#-how-it-works)
+- [🏃‍♂️ Run the Program](#-run-the-program)
+- [🛠 Tech Stack](#-tech-stack)
+
 ## 🚀 Features
 
 - Pulls all songs played today by 95.7 BenFM
