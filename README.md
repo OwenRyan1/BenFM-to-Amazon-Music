@@ -8,7 +8,7 @@ Easily convert the daily playlist from Philadelphia’s 95.7 BenFM to your Amazo
 - [📦 Requirements](#-requirements)
 - [🔧 Setup Instructions](#-setup-instructions)
 - [💡 How It Works](#-how-it-works)
-- [🏃‍♂️ Starting the Application](#-starting-the-application)
+- [🏁 Starting the Application](#-starting-the-application)
 - [🛠 Tech Stack](#-tech-stack)
 
 ## 🚀 Features
@@ -58,7 +58,7 @@ Easily convert the daily playlist from Philadelphia’s 95.7 BenFM to your Amazo
 4. Uses TuneMyMusic’s website to transfer the list to your Amazon Music Playlist
 5. Console logs all songs that were added (Essentially any songs added to SongList.txt because they were not duplicates)
 
-## 🏃‍♂️ Starting the Application
+## 🏁 Starting the Application
 
 - To run the program, use the following command:
 
