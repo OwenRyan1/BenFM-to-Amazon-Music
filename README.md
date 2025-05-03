@@ -33,8 +33,8 @@ Easily convert the daily playlist from Philadelphia’s 95.7 BenFM to your Amazo
 2. **Clone this repository**
 
    ```bash
-   git clone https://github.com/yourusername/benfm-amazon-converter.git
-   cd benfm-amazon-converter
+   git clone https://github.com/OwenRyan1/BenFM-to-Amazon-Music.git
+   cd BenFM-to-Amazon-Music
    ```
 
 3. **Set up the repository**
